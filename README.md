@@ -1,5 +1,4 @@
-# Contact
-## fist name @ gleeson.tech
+To contact, email: first name @ gleeson.tech
 
 
 Have a nice day!
